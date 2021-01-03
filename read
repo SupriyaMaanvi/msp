@@ -1,0 +1,11 @@
+table
+(admin)
+(reg)
+1.id
+2.name
+3.contact
+4.email
+5.address
+6.area
+7.pincode
+8.password
